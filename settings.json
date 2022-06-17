@@ -1,0 +1,11 @@
+{
+    "title"         :   "Example App",
+    "description"   :   "The Hash-Slinging Slasher's epic adventure returns in The Hash-Slinging Slasher 2: Slasher's Subaru!",
+    "AndroidURL"    :   "https://play.google.com/store/apps/details?id=com.example.app",
+    "iOSURL"        :   "https://itunes.apple.com/us/app/example-app/id123456789",
+    "styles"        :   {
+                            "background-color": "#000000",
+                            "color": "#ffffff",
+                            "font-family": "Arial"
+                        }
+}
